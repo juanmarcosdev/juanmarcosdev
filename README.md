@@ -5,6 +5,7 @@ Hello! I'm Juan Marcos Caicedo, a current Computer Science student at Universida
 - 🎲 Logic Games and Game Theory
 - 🧩 Automata Theory and Graph Theory
 - 👨‍💻 Software Development
+- 🧑‍🏫 and of course, teaching Computer Science and Programming to others!
 
 
 
