@@ -1,12 +1,13 @@
-Hello! I'm Juan Marcos Caicedo, a current Computer Science student at Universidad del Valle in Cali, Colombia. I'm in my 4th year (of 5) of my BSc. (Bachelor of Science) degree. My main interests are:
+<h1>Hello! I'm Juan Marcos Caicedo, a current Computer Science student at Universidad del Valle in Cali, Colombia. I'm in my 4th year (of 5) of my BSc. (Bachelor of Science) degree. My main interests are:</h1>
 
+<h2>
 - ⚙ Constraint Programming and Optimization
 - ♟ Artificial Intelligence and Machine Learning
 - 🎲 Logic Games and Game Theory
 - 🧩 Automata Theory and Graph Theory
 - 👨‍💻 Software Development
 - 🧑‍🏫 and of course, teaching Computer Science and Programming to others!
-
+</h2>
 
 
 <h3 align="center">Connect with me</h3>
