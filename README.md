@@ -1,3 +1,10 @@
+Hello! I'm Juan Marcos Caicedo, a current Computer Science student at Universidad del Valle in Cali, Colombia. I'm in my 4th year (of 5) of my BSc. (Bachelor of Science) degree. My main interests are:
+
+- ⚙ Constraint Programming, Optimization, Operations Research
+- ♟ Artificial Intelligence and Machine Learning
+- 🎲 Logic Games and Game Theory
+- 🧩 Automata Theory and Graph Theory
+- 👨‍💻 Software Development
 
 
 
@@ -16,7 +23,7 @@
   
 </div>
 
-<div>
+<div align="center">
     <img src="https://views.whatilearened.today/views/github/juanmarcos935/views.svg"/>
     <a href="https://github.com/juanmarcos935?tab=followers"><img src="https://img.shields.io/github/followers/juanmarcos935?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/juanmarcos935?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
@@ -24,5 +31,7 @@
     <a href="mailto:juanmarcoscaicedo@gmail.com?subject=[Github] Ask me anything&body=Hello Juan Marcos, I am sending this after seeing your Github Profile"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
     <img src="https://img.shields.io/badge/Os-Ubuntu-a80030"/>
 </div>
+
+
 
 <br/><br/>
