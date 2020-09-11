@@ -4,7 +4,7 @@
 - ♟ Artificial Intelligence and Machine Learning
 - 🎲 Logic Games and Game Theory
 - 🧩 Automata Theory and Graph Theory
-- 👨‍💻 Software Development
+- 👨‍💻 Software Development (Frontend, Backend, Database)
 - 🧑‍🏫 and of course, teaching Computer Science and Programming to others!
 
 
