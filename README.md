@@ -11,8 +11,8 @@
 <h3 align="center">Connect with me</h3>
 <div align="center">
   <a href= "https://www.linkedin.com/in/juan-marcos-caicedo-mej%C3%ADa-ab4827188/"><img src="https://img.icons8.com/dusk/48/000000/linkedin.png"/></a>
-  <a href= "https://medium.com/@juanmarcos935"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
-  <a href= "https://twitter.com/juanmarcos935"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
+  <a href= "https://medium.com/@juanmarcosdev"><img src="https://img.icons8.com/dusk/48/000000/medium-new.png"/></a>
+  <a href= "https://twitter.com/juanmarcosdev"><img src="https://img.icons8.com/dusk/48/000000/twitter.png"/></a>
 </div>
 
 <div>
