@@ -7,6 +7,9 @@
 - 👨‍💻 Software Development (Frontend, Backend, Database)
 - 🧑‍🏫 and of course, teaching Computer Science and Programming to others!
 
+<h3 align="center">Conferences</h3>
+
+- "Ubuntu y la relevencia del software libre en épocas de crisis global" @ Comunidad Ubuntu Colombia (10-08-2020). <a href="https://www.youtube.com/watch?v=Gk3T7owYxsI">Click here to watch the conference</a>
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
