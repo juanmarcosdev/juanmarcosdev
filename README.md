@@ -9,7 +9,7 @@
 
 <h3 align="center">Conferences</h3>
 
-- "Ubuntu y la relevencia del software libre en épocas de crisis global (English: "Ubuntu and the relevance of the free software in global crisis times") @ <a href="https://ubuntu-co.com/">Ubuntu Colombia</a> (10-08-2020). <a href="https://www.youtube.com/watch?v=Gk3T7owYxsI">Click here to watch the conference</a>
+- "Ubuntu y la relevencia del software libre en épocas de crisis global" (English: "Ubuntu and the relevance of the free software in global crisis times") @ <a href="https://ubuntu-co.com/">Ubuntu Colombia</a> (10-08-2020). <a href="https://www.youtube.com/watch?v=Gk3T7owYxsI">Click here to watch the conference</a>
 
 <h3 align="center">Connect with me</h3>
 <div align="center">
