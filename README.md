@@ -30,7 +30,6 @@
     <img src="https://views.whatilearened.today/views/github/juanmarcosdev/views.svg"/>
     <a href="https://github.com/juanmarcosdev?tab=followers"><img src="https://img.shields.io/github/followers/juanmarcosdev?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
     <a href="https://github.com/juanmarcosdev?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
-    <a href="https://github.com/Naereen/badges"><img src="https://img.shields.io/badge/badges-awesome-green.svg"/></a>
     <a href="mailto:juanmarcoscaicedo@gmail.com?subject=[Github] Ask me anything&body=Hello Juan Marcos, I am sending this after seeing your Github Profile"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
     <img src="https://img.shields.io/badge/Os-Ubuntu-a80030"/>
 </div>
