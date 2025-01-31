@@ -1,10 +1,10 @@
 <h3 align="center">Hello! I'm Juan Marcos Caicedo, a current Masters in Computer Science student at Universidad del Valle in Cali, Colombia. I also hold a Bachelors Degree in  Computer Science. Currently i'm working as a Data Engineer and teaching some courses of Programming and Theoretical Computing. My main interests are:</h3>
 
 - ⚙ Constraint Programming and Optimization
-- ♟ Artificial Intelligence and Machine Learning
 - 🎲 Logic Games and Game Theory
 - 🧩 Automata Theory and Graph Theory
-- 👨‍💻 Software Development (Frontend, Backend, Database)
+- 👨‍💻 Discrete Mathematics and Data Structures
+- ♟ Artificial Intelligence and Machine Learning
 - 🧑‍🏫 and of course, teaching Computer Science and Programming to others!
 
 <h3 align="center">Conferences</h3>
