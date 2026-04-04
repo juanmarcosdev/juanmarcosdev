@@ -37,9 +37,7 @@
      ──── Cátedra Professor @ PUJ Cali · Computability & Discrete Math
      ──── Cátedra Professor @ ICESI · Algorithms & Programming I
           │
-2025 ──── 🏆 Profesor Revelación 2024–2025 (ACM · PUJ Cali, May 2025)
-     ──── 🎖️  Docencia Destacada · PUJ Cali Día del Profesor (May 2025)
-     ──── Full-time Professor @ ICESI (Oct 2025–present)
+2025 ──── Full-time Professor @ ICESI (Oct 2025–present)
           │
 2026 ──►  MSc. graduation · thesis defense · journal submission
 </pre>
