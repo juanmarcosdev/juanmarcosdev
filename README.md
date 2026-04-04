@@ -103,9 +103,9 @@ Before going full-time into academia, I spent **4 years as a Data Engineer** at 
 
 | | |
 |---|---|
-| 🌟 **Profesor Revelación 2024–2025** | Chosen by ~135 students from 10+ professors at DISCO 2025 · ACM Student Group · [PUJ Cali](https://www.javerianacali.edu.co/) · May 2025 |
-| 🎖️ **Docencia Destacada** | Outstanding Teaching Award selected by the Faculty Council based on quantitative & qualitative teaching evaluation results · [PUJ Cali — Día del Profesor 2025](https://www.javerianacali.edu.co/noticias/asi-celebramos-el-dia-del-profesor-en-la-javeriana-cali) · May 2025 |
-| 🎓 **Estímulo Académico Beca ×4** | Academic Stimulus Scholarship · [Universidad del Valle](https://www.univalle.edu.co/) |
+| 🌟 **Profesor Revelación 2024-2025** | Chosen by ~135 students from 10+ professors at DISCO 2025 · ACM Student Group · [PUJ Cali](https://www.javerianacali.edu.co/) · May 2025 |
+| 🎖️ **Docencia Destacada 2024-2025** | Outstanding Teaching Award selected by the Faculty Council based on quantitative & qualitative teaching evaluation results · [PUJ Cali — Día del Profesor 2025](https://www.javerianacali.edu.co/noticias/asi-celebramos-el-dia-del-profesor-en-la-javeriana-cali) · May 2025 |
+| 🎓 **Estímulo Académico Beca ×10** | Academic Stimulus Scholarship · [Universidad del Valle](https://www.univalle.edu.co/) |
 
 ---
 
