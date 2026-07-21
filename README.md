@@ -13,7 +13,7 @@
 
 ## 🔭 What I'm up to right now
 
-- 🎓 **Finishing my MSc.** in Engineering (CS emphasis) @ [Universidad del Valle](https://www.univalle.edu.co/) — dissertation submitted, defense & journal paper coming up · *Expected grad: 2026-II*
+- 🎓 **Finishing my MSc.** in Engineering (CS emphasis) @ [Universidad del Valle](https://www.univalle.edu.co/) — thesis successfully defended on **June 11, 2026** · only the journal paper submission left before graduating · *Expected: 2026-II*
 - 👨‍🏫 **Full-time Professor** @ [Universidad ICESI](https://www.icesi.edu.co/) · Teaching Discrete Structures I, II & III
 - 🔬 **Researching** opinion dynamics, cognitive biases & multi-agent consensus models (Spiral of Silence, DeGroot extensions)
 - 📝 Preparing a **journal paper submission** based on my thesis work
@@ -39,7 +39,7 @@
           │
 2025 ──── Full-time Professor @ ICESI (Oct 2025–present)
           │
-2026 ──►  MSc. graduation · thesis defense · journal submission
+2026 ──── Thesis defense (Jun 11) ──► journal paper submission ──► MSc. graduation
 </pre>
 
 ---
@@ -109,8 +109,10 @@ Before going full-time into academia, I spent **4 years as a Data Engineer** at 
 
 ---
 
-## 🎤 Talks
+## 🎤 Talks & Defense
 
+- 🎓 **MSc. Thesis Defense** — Opinion Dynamics & Multi-Agent Consensus Models
+  @ [Universidad del Valle](https://www.univalle.edu.co/) · Jun 11, 2026 · [▶️ Watch here](https://www.youtube.com/watch?v=sUXnzd81nL4)
 - 📢 **"Ubuntu y la relevancia del software libre en épocas de crisis global"**
   @ [Ubuntu Colombia](https://ubuntu-co.com/) · Aug 10, 2020 · [▶️ Watch here](https://www.youtube.com/watch?v=Gk3T7owYxsI)
 
