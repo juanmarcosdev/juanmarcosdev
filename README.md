@@ -7,14 +7,14 @@
 <br/>
 
 > *"Por destacarse con excelencia, vocación y cercanía, convirtiendo cada clase en una oportunidad para inspirar, motivar y transformar."*
-> — Students Recognition  · **Breakout Professor 2024–2025** 🏆
+> — Students Recognition  - **Breakout Professor 2024–2025** 🏆
 
 ---
 
 ## 🔭 What I'm up to right now
 
-- 🎓 **Finishing my MSc.** in Engineering (CS emphasis) @ [Universidad del Valle](https://www.univalle.edu.co/) — thesis successfully defended on **June 11, 2026** · only the journal paper submission left before graduating · *Expected: 2026-II*
-- 👨‍🏫 **Full-time Professor** @ [Universidad ICESI](https://www.icesi.edu.co/) · Teaching Discrete Structures I, II & III
+- 🎓 **Finishing my MSc.** in Engineering (CS emphasis) @ [Universidad del Valle](https://www.univalle.edu.co/) — thesis successfully defended on **June 11, 2026** - only the journal paper submission left before graduating - *Expected: 2026-II*
+- 👨‍🏫 **Full-time Professor** @ [Universidad ICESI](https://www.icesi.edu.co/) - Teaching Discrete Structures I, II & III
 - 🔬 **Researching** opinion dynamics, cognitive biases & multi-agent consensus models (Spiral of Silence, DeGroot extensions)
 - 📝 Preparing a **journal paper submission** based on my thesis work
 
@@ -27,15 +27,15 @@
           │
 2018 ──── Teaching Assistant (Discrete Math, Algorithms, PL Theory) @ Univalle
           │
-2021 ──── Research Assistant · Univalle–FORSA S.A. joint project
+2021 ──── Research Assistant - Univalle–FORSA S.A. joint project
           │
 2021 ──── Data Engineer @ Perficient Latin America
-          │   GCP · Python · Java · ETL · BigQuery · Pub/Sub · Docker
+          │   GCP - Python - Java - ETL - BigQuery - Pub/Sub - Docker
           │   (4 years, until Sep 2025)
           │
-2023 ──── Cátedra Professor @ Univalle · Discrete Math II
-     ──── Cátedra Professor @ PUJ Cali · Computability & Discrete Math
-     ──── Cátedra Professor @ ICESI · Algorithms & Programming I
+2023 ──── Cátedra Professor @ Univalle - Discrete Math II
+     ──── Cátedra Professor @ PUJ Cali - Computability & Discrete Math
+     ──── Cátedra Professor @ ICESI - Algorithms & Programming I
           │
 2025 ──── Full-time Professor @ ICESI (Oct 2025–present)
           │
@@ -48,7 +48,7 @@
 
 I've taught across three universities in Cali, building courses from the ground up and helping students fall in love with the theoretical side of CS.
 
-I'm especially excited about my current full-time role at **[Universidad ICESI](https://www.icesi.edu.co/)** — an institution that strikes the ideal balance between academic rigor and strong industry ties. Being fully dedicated to teaching and research here feels like the natural culmination of everything I've built so far.
+**[Universidad ICESI](https://www.icesi.edu.co/)** gives me academic rigor and real industry ties in one place. Teaching and research full-time here is the role I wanted.
 
 **Courses I teach or have taught as professor:**
 
@@ -64,19 +64,18 @@ I'm especially excited about my current full-time role at **[Universidad ICESI](
 
 ## 🔬 I Research
 
-My MSc. thesis sits at the intersection of **social dynamics**, **behavioral economics**, and **complex systems**. But my curiosity doesn't stop there — I'm broadly interested in several areas of theoretical and applied CS:
+My MSc. thesis combines **social dynamics**, **behavioral economics**, and **complex systems**. I also work in other areas of theoretical and applied CS:
 
 **MSc. Research — Opinion Dynamics & Multi-Agent Systems**
 - 📌 **Focus:** How cognitive biases shape opinion formation and consensus in multi-agent systems
-- 🌀 **Models:** Spiral of Silence theory · DeGroot · CBSOM extensions
-- ⚙️ **Stack:** Scala (Actor Model) · PostgreSQL · Python · simulation frameworks
+- 🌀 **Models:** Spiral of Silence theory - DeGroot - CBSOM extensions
+- ⚙️ **Stack:** Scala (Actor Model) - PostgreSQL - Python - simulation frameworks
 - 🔗 Part of the **PROMUEVA** research project ([Univalle](https://www.univalle.edu.co/)–[PUJ](https://www.javerianacali.edu.co/))
 
 **Other Research Interests**
 - ⚙️ **Constraint Programming** and Combinatorial Optimization
-- 🧩 **Automata Theory**, Formal Languages & Graph Theory
+- 🧩 **Graph Theory**, Formal Languages & Automata Theory
 - ♟️ **Artificial Intelligence**, Machine Learning & Game Theory
-- 🎲 **Logic Games** and their computational foundations
 
 ---
 
@@ -103,18 +102,18 @@ Before going full-time into academia, I spent **4 years as a Data Engineer** at 
 
 | | |
 |---|---|
-| 🌟 **Profesor Revelación 2024-2025** | Chosen by ~135 students from 10+ professors at DISCO 2025 · ACM Student Group · [PUJ Cali](https://www.javerianacali.edu.co/) · May 2025 |
-| 🎖️ **Docencia Destacada 2024-2025** | Outstanding Teaching Award selected by the Faculty Council based on quantitative & qualitative teaching evaluation results · [PUJ Cali — Día del Profesor 2025](https://www.javerianacali.edu.co/noticias/asi-celebramos-el-dia-del-profesor-en-la-javeriana-cali) · May 2025 |
-| 🎓 **Estímulo Académico Beca ×10** | Academic Stimulus Scholarship · [Universidad del Valle](https://www.univalle.edu.co/) |
+| 🌟 **Profesor Revelación 2024-2025** | Chosen by ~135 students from 10+ professors at DISCO 2025 - ACM Student Group - [PUJ Cali](https://www.javerianacali.edu.co/) - May 2025 |
+| 🎖️ **Docencia Destacada 2024-2025** | Outstanding Teaching Award selected by the Faculty Council based on quantitative & qualitative teaching evaluation results - [PUJ Cali — Día del Profesor 2025](https://www.javerianacali.edu.co/noticias/asi-celebramos-el-dia-del-profesor-en-la-javeriana-cali) - May 2025 |
+| 🎓 **Estímulo Académico Beca ×10** | Academic Stimulus Scholarship - [Universidad del Valle](https://www.univalle.edu.co/) |
 
 ---
 
 ## 🎤 Talks & Defense
 
 - 🎓 **MSc. Thesis Defense** — Opinion Dynamics & Multi-Agent Consensus Models
-  @ [Universidad del Valle](https://www.univalle.edu.co/) · Jun 11, 2026 · [▶️ Watch here](https://www.youtube.com/watch?v=sUXnzd81nL4)
+  @ [Universidad del Valle](https://www.univalle.edu.co/) - Jun 11, 2026 - [▶️ Watch here](https://www.youtube.com/watch?v=sUXnzd81nL4)
 - 📢 **"Ubuntu y la relevancia del software libre en épocas de crisis global"**
-  @ [Ubuntu Colombia](https://ubuntu-co.com/) · Aug 10, 2020 · [▶️ Watch here](https://www.youtube.com/watch?v=Gk3T7owYxsI)
+  @ [Ubuntu Colombia](https://ubuntu-co.com/) - Aug 10, 2020 - [▶️ Watch here](https://www.youtube.com/watch?v=Gk3T7owYxsI)
 
 ---
 
